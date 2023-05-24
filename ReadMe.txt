@@ -1,0 +1,2 @@
+Создаю абстрактный класс фигура, наследую от него класс MyRavPriamougTreug и MyPolygon. В классе Figure указываю поля класса и определяю их в конструкторе. В параметры функции передаю значения цвета, длины, скорости и направления.
+https://drive.google.com/file/d/1_GqKLsodCw2nzhk-fkbt4d7GJF5yQNA4/view?usp=share_link
